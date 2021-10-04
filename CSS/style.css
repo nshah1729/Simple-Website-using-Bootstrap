@@ -2,3 +2,7 @@
   color: white !important;
   font-weight: 700;
 }
+.gk :hover {
+  font-size: larger !important;
+  color: brown !important;
+}
